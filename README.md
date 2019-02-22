@@ -1,2 +1,2 @@
 # spark-cdms
-Integrate spark in cdms 
+Integrate spark with cdms 
